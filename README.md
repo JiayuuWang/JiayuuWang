@@ -30,6 +30,7 @@ I've spent my part-time at building more useful tools and projects, hoping to of
 **[dl-reproduce](https://github.com/JiayuuWang/dl-reproduce)** — A focused agent skill for reproducing deep learning papers. Shell scripts and configuration patterns that turn paper-to-code translation from a chore into something systematic.
 
 **[Auto-Cursor](https://github.com/JiayuuWang/Auto-Cursor)** — A GUI-native orchestration layer that pilots the Cursor IDE like a human operator, combining LLMs, visual grounding, and deterministic automation to explore how agents can build software without being confined to terminal-based tooling.
+
 ---
 
 ## Blogs
