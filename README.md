@@ -8,7 +8,7 @@ My research interests primarily focus on Large Language Model Agents in Domain-s
 ---
 
 
-## What I believe
+## What I believe    
 
 - **Stay open source** — code that anyone can see, use, and improve isn't just generous, it's how the best work survives and grows.
 - **Process over outcome** — a good process creates good outcomes consistently. Obsessing over results alone misses the point.
@@ -31,6 +31,10 @@ I've spent my part-time at building more useful tools and projects, hoping to of
 
 **[Auto-Cursor](https://github.com/JiayuuWang/Auto-Cursor)** — A GUI-native orchestration layer that pilots the Cursor IDE like a human operator, combining LLMs, visual grounding, and deterministic automation to explore how agents can build software without being confined to terminal-based tooling.
 
+**[EarthAgent](https://www.aiagent2025.com/projects/buq2zyaq05w2)** — A general AI agent for the remote sensing field, dedicated to making complex and high-threshold geospatial analysis more accessible and automated.
+
+**[Earth-Insights WeChat Official Account Agent (地球洞察微信公众号)](https://mp.weixin.qq.com/s/6B67lV7Se1zRXL7kl1sWqw)**  — This is an automated system that fetches processes and posts the latest papers in the fields of remote sensing and deep learning. 
+
 ---
 
 ## Blogs
@@ -46,7 +50,7 @@ Writen by hand! All about my own reflections from different periods of time
 ## Contact
 
 - [X](https://x.com/Runrvnrvn)
-- [WeChat](): jiayuw1023
+- [WeChat](./statics/wx_qr.jpg): jiayuw1023
 
 
 
