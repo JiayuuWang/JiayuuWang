@@ -37,8 +37,8 @@ I've spent my part-time at building more useful tools and projects, hoping to of
 
 Writen by hand! All about my own reflections from different periods of time
 
-- [Why I’m Still Bullish on GUI Agents in 2026]([https://github.blog/author/bradyg/](https://jiayuuwang.github.io/computer%20vision/agent/browser%20automation/why-am-I-still-bullish-on-gui-agent-in-2026/))
-- [Why Does Claude Code Work So Well on Non‑Coding Tasks?]([https://devblogs.microsoft.com/visualstudio/author/bradyg/](https://jiayuuwang.github.io/agent%20scaffolding/code-gen%20tools/the-generalization-of-agent-scaffolding/))
+- [Why I’m Still Bullish on GUI Agents in 2026](https://jiayuuwang.github.io/computer%20vision/agent/browser%20automation/why-am-I-still-bullish-on-gui-agent-in-2026/)
+- [Why Does Claude Code Work So Well on Non‑Coding Tasks?](https://jiayuuwang.github.io/agent%20scaffolding/code-gen%20tools/the-generalization-of-agent-scaffolding/)
 
 ---
 
