@@ -50,8 +50,8 @@ Writen by hand! All about my own reflections from different periods of time
 
 ## Contact
 
-- [X](https://x.com/Runrvnrvn)
+- [Email](): jiayuw794@gmail.com
 - [WeChat](./statics/wx_qr.jpg): jiayuw1023
-
+- [X](https://x.com/Runrvnrvn)
 
 
