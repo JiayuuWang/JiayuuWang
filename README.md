@@ -21,7 +21,9 @@ My research interests primarily focus on Large Language Model Agents in Domain-s
 
 I've spent my part-time at building more useful tools and projects, hoping to offer insights and contributions to the community.
 
-**[Contribot](https://github.com/JiayuuWang/Contribot)** — An agent designed to automate contributions across repositories. Still in early stages — exploring how to make open-source collaboration more accessible through intelligent automation.
+**[ShipNuts](https://github.com/JiayuuWang/ShipNuts)** — Search and ship your idea at "inference-speed". This autonomous system takes your intent, finds a gap in community and works on it. Coming soon! 
+
+**[Contribot](https://github.com/JiayuuWang/Contribot)** — A system that automatically contributes to GitHub open-source repositories using tons of Claude Code as the reasoning engine. It continuously monitors your target repos, analyzes issues and codebase, then submits PRs under your own GitHub account.
 
 **[research-navigator](https://github.com/JiayuuWang/research-navigator)** — Comprehensive scientific intelligence platform for navigating and synthesizing research literature. Built to help researchers discover, track, and understand emerging work across domains.
 
@@ -41,6 +43,7 @@ I've spent my part-time at building more useful tools and projects, hoping to of
 
 Writen by hand! All about my own reflections from different periods of time
 
+- [Is It Possible That Future Software Is Just Pure Text?](https://jiayuuwang.github.io/software%20development/coding%20agent/Is-it-possible-future-software-is-just-pure-text/)
 - [After a Vibe Coding Interview: My Thoughts and Reflections](https://jiayuuwang.github.io/vibe%20coding/tech%20interview/feelings-after-a-vibecoding-interview/)
 - [Why I’m Still Bullish on GUI Agents in 2026](https://jiayuuwang.github.io/computer%20vision/agent/browser%20automation/why-am-I-still-bullish-on-gui-agent-in-2026/)
 - [Why Does Claude Code Work So Well on Non‑Coding Tasks?](https://jiayuuwang.github.io/agent%20scaffolding/code-gen%20tools/the-generalization-of-agent-scaffolding/)
