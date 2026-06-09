@@ -21,6 +21,8 @@ My research interests primarily focus on Large Language Model Agents in Domain-s
 
 I've spent my part-time at building more useful tools and projects, hoping to offer insights and contributions to the community.
 
+**[AARR Series](https://aarr-bench.com/)** — Evaluating how well LLM agents close the gap with human researchers across the full research lifecycle. Not just executing code — testing the cognitive gaps that still separate frontier agents from human researchers. 
+
 **[ShipNuts](https://github.com/JiayuuWang/ShipNuts)** — Search and ship your idea at "inference-speed". This autonomous system takes your intent, finds a gap in community and works on it. Coming soon! 
 
 **[Contribot](https://github.com/JiayuuWang/Contribot)** — A system that automatically contributes to GitHub open-source repositories using tons of Claude Code as the reasoning engine. It continuously monitors your target repos, analyzes issues and codebase, then submits PRs under your own GitHub account.
