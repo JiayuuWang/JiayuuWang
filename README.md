@@ -21,19 +21,13 @@ My research interests primarily focus on Large Language Model Agents in Domain-s
 
 I've spent my part-time at building more useful tools and projects, hoping to offer insights and contributions to the community.
 
+**[dsh-files-panel](https://github.com/JiayuuWang/dsh-files-panel)** — DeepSeek Harness web GUI file panel plugin: browse and edit workspace files in-browser (Monaco editor + vim/emacs keymaps)
+
 **[AARR Series](https://aarr-bench.com/)** — Evaluating how well LLM agents close the gap with human researchers across the full research lifecycle. Not just executing code — testing the cognitive gaps that still separate frontier agents from human researchers. 
 
 **[Antlet-CLI](https://aarr-bench.com/](https://github.com/JiayuuWang/Antlet-CLI))** — A nano coding agent built with Rust, supporting memory management, and cron-triggered tasks. It has extremely fast startup speed and minimal memory footprint, and natively supports running a massive number of agent instances simultaneously. 
 
-**[ShipNuts](https://github.com/JiayuuWang/ShipNuts)** — Search and ship your idea at "inference-speed". This autonomous system takes your intent, finds a gap in community and works on it. Coming soon! 
-
 **[Contribot](https://github.com/JiayuuWang/Contribot)** — A system that automatically contributes to GitHub open-source repositories using tons of Claude Code as the reasoning engine. It continuously monitors your target repos, analyzes issues and codebase, then submits PRs under your own GitHub account.
-
-**[research-navigator](https://github.com/JiayuuWang/research-navigator)** — Comprehensive scientific intelligence platform for navigating and synthesizing research literature. Built to help researchers discover, track, and understand emerging work across domains.
-
-**[github-issues-kanban](https://github.com/JiayuuWang/github-issues-kanban)** — Interactive kanban board that syncs bidirectionally with GitHub repository issues. Drag, drop, and watch your project management stay in perfect sync with your codebase.
-
-**[dl-reproduce](https://github.com/JiayuuWang/dl-reproduce)** — A focused agent skill for reproducing deep learning papers. Shell scripts and configuration patterns that turn paper-to-code translation from a chore into something systematic.
 
 **[Auto-Cursor](https://github.com/JiayuuWang/Auto-Cursor)** — A GUI-native orchestration layer that pilots the Cursor IDE like a human operator, combining LLMs, visual grounding, and deterministic automation to explore how agents can build software without being confined to terminal-based tooling.
 
