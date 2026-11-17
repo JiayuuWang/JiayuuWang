@@ -1,8 +1,8 @@
 # How are you doing!
 
-I’m a third-year Computer Science student at the College of Computer Science and Technology, Xi’an Jiaotong University, expected to earn my B.S. in Engineering in fall 2027. 
+I’m a fourth-year Computer Science student at the College of Computer Science and Technology, Xi’an Jiaotong University, expected to earn my B.S. in Engineering in fall 2027. 
 I enjoy shipping products to transform my thoughts into reality. I'm always open to new technologies, new dev tools and new ideas.
-My research interests primarily focus on Large Language Model Agents in Domain-specific Scenarios, RL, and Computer Use (CLI, GUI). 
+My research interests primarily focus on the training, evaluation and applicaton of Large Language Model Agents. 
 
 
 ---
@@ -20,6 +20,8 @@ My research interests primarily focus on Large Language Model Agents in Domain-s
 ## What I've worked on
 
 I've spent my part-time at building more useful tools and projects, hoping to offer insights and contributions to the community.
+
+**[Archimedes](https://archimedes-research.com/)** — A local-first research agent workspace for customizable research apps and integrated, traceable scientific workflows.
 
 **[dsh-files-panel](https://github.com/JiayuuWang/dsh-files-panel)** — DeepSeek Harness web GUI file panel plugin: browse and edit workspace files in-browser (Monaco editor + vim/emacs keymaps)
 
@@ -41,10 +43,10 @@ I've spent my part-time at building more useful tools and projects, hoping to of
 
 Writen by hand! All about my own reflections from different periods of time
 
-- [Is It Possible That Future Software Is Just Pure Text?](https://jiayuuwang.github.io/software%20development/coding%20agent/Is-it-possible-future-software-is-just-pure-text/)
-- [After a Vibe Coding Interview: My Thoughts and Reflections](https://jiayuuwang.github.io/vibe%20coding/tech%20interview/feelings-after-a-vibecoding-interview/)
-- [Why I’m Still Bullish on GUI Agents in 2026](https://jiayuuwang.github.io/computer%20vision/agent/browser%20automation/why-am-I-still-bullish-on-gui-agent-in-2026/)
-- [Why Does Claude Code Work So Well on Non‑Coding Tasks?](https://jiayuuwang.github.io/agent%20scaffolding/code-gen%20tools/the-generalization-of-agent-scaffolding/)
+- [Is It Possible That Future Software Is Just Pure Text?](https://jiayuuwang.github.io/blogs/4/)
+- [After a Vibe Coding Interview: My Thoughts and Reflections](https://jiayuuwang.github.io/blogs/3/)
+- [Why I’m Still Bullish on GUI Agents in 2026](https://jiayuuwang.github.io/blogs/1/)
+- [Why Does Claude Code Work So Well on Non‑Coding Tasks?](https://jiayuuwang.github.io/blogs/2/)
 
 ---
 
